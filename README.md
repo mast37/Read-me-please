@@ -1,12 +1,12 @@
 <h1>Портфолио: Инженер по тестированию / QA Engeenier</h1>
 <h2>Обо мне: </h2>
 <p>Меня зовут Вячеслав, я действующий junior backend-tester</p>
-<h4><a href="https://docs.google.com/document/d/1GyKiG9DB5hkkrAKnSqlW1aATPxJYzBzomHFpQxW47gA/edit?usp=sharing">Мое резюме</a></h4>
 <ol><div id="badges">
-  <a href="https://docs.google.com/document/d/1GyKiG9DB5hkkrAKnSqlW1aATPxJYzBzomHFpQxW47gA/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/Моё резюме-black?style=for-the-badge&logo=Моё резюме&logoColor=white" alt="Моё резюме Badge"/>
-  </a>
-  </div> </ol>
+      <a href="https://docs.google.com/document/d/1GyKiG9DB5hkkrAKnSqlW1aATPxJYzBzomHFpQxW47gA/edit?usp=sharing">
+        <img src="https://img.shields.io/badge/Моё резюме-black?style=for-the-badge&logo=Моё резюме&logoColor=white" alt="Моё резюме Badge"/>
+      </a>
+    </div> 
+</ol>
 <h3>Мой багаж: </h3>
 <ul>
   <li>Понимание основных процессов и методологии тестирования, а также владение техникой тест-дизайна</li>
