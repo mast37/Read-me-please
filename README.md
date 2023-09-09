@@ -7,6 +7,7 @@
   <li>Опыт работы с SQL: PL/SQL Developer, PostgreSQL, MySQL</li>
   <li>Опыт работы с инструментами: You Track, Test it, Pairwise, Miro, DevTools, Jira, Qase.io, SOAP UI</li>
   <li>Опыт в тестировании API: Postman</li>
+  <li>Опыт работы с программыми комплексами: ЦФТ-РБС, ФФЛ, 1С предприятие</li>
 </ul>
 <h3>Личные качества: </h3>
 <ul>
