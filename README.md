@@ -15,25 +15,25 @@
 <ul>
   <li>Понимание основных процессов и методологии тестирования, а также владение техникой тест-дизайна</li>
   <li>Опыт работы с SQL: 
-        <a href="ww.allroundautomations.com/products/pl-sql-developer/"><img src="https://img.shields.io/badge/PL%2FSQL_Developer-black" alt="PL/SQL Developer"></a>
-        <a href="PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-black" alt="PostgreSQL"></a>
-        <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-black" alt="MySQL"></a>
+        <img src="https://img.shields.io/badge/PL%2FSQL_Developer-black" alt="PL/SQL Developer">
+        <img src="https://img.shields.io/badge/PostgreSQL-black" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/MySQL-black" alt="MySQL">
   </li>
   <li>Опыт работы с инструментами: 
-        <a href="https://youtrack.jetbrains.com/issues"><img src="https://img.shields.io/badge/YouTrack-black" alt="YouTrack"></a>
-        <a href="https://testit.software"><img src="https://img.shields.io/badge/Test_it-black" alt="Test it"></a> 
-        <a href="https://pairwise.teremokgames.com/?ysclid=lfb9xx13hk634117435"><img src="https://img.shields.io/badge/Pairwise-black" alt="Pairwise"></a> 
-        <a href="https://miro.com"><img src="https://img.shields.io/badge/Miro-black" alt="Miro"></a> 
-        <a href="https://developer.chrome.com/docs/devtools/"><img src="https://img.shields.io/badge/DevTools-black" alt="DevTools"></a> 
+        <img src="https://img.shields.io/badge/YouTrack-black" alt="YouTrack">
+        <img src="https://img.shields.io/badge/Test_it-black" alt="Test it">
+        <img src="https://img.shields.io/badge/Pairwise-black" alt="Pairwise"> 
+        <img src="https://img.shields.io/badge/Miro-black" alt="Miro">
+        <img src="https://img.shields.io/badge/DevTools-black" alt="DevTools"> 
         <img src="https://img.shields.io/badge/Jira-black" alt="Jira"> 
         <img src="https://img.shields.io/badge/Confluense-black" alt="Confluense">
-        <a href="https://app.qase.io"><img src="https://img.shields.io/badge/qase.io-black" alt="qase.io"></a> 
+        <img src="https://img.shields.io/badge/qase.io-black" alt="qase.io"> 
   </li>
-  <li>Опыт в тестировании API: <a href="https://www.postman.com"><img src="https://img.shields.io/badge/Postman-black" alt="Postman"></a></li>
+  <li>Опыт в тестировании API: <img src="https://img.shields.io/badge/Postman-black" alt="Postman">
   <li>Опыт работы с программыми комплексами: 
         <img src="https://img.shields.io/badge/%D0%A6%D0%A4%D0%A2--%D0%A0%D0%91%D0%A1-black" alt="ЦФТ-РБС">
         <img src="https://img.shields.io/badge/%D0%A4%D0%A4%D0%9B-black" alt="ФФЛ">
-        <a href="https://v8.1c.ru"><img src="https://img.shields.io/badge/1%D0%A1-black" alt="1С"></a>
+        <img src="https://img.shields.io/badge/1%D0%A1-black" alt="1С">
   </li>
 </ul>
 <h3>📈 Личные качества: </h3>
