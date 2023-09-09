@@ -3,6 +3,7 @@
 <p>Меня зовут Вячеслав, я действующий junior backend-tester</p>
 <h4>[Мое резюме](https://docs.google.com)</h4>
 [hobbit-hole](https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles")
+[Мое резюме](https://docs.google.com)
 <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
 <h3>Мой багаж: </h3>
 <ul>
