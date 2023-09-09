@@ -1,21 +1,38 @@
 <h1>Портфолио: Инженер по тестированию / QA Engeenier</h1>
-<h2>Обо мне: </h2>
+<h2>😤 Обо мне: </h2>
 <p>Меня зовут Вячеслав, я действующий junior backend-tester</p>
-<ol><div id="badges">
+<div id="badges">
       <a href="https://docs.google.com/document/d/1GyKiG9DB5hkkrAKnSqlW1aATPxJYzBzomHFpQxW47gA/edit?usp=sharing">
         <img src="https://img.shields.io/badge/Моё резюме-black?style=for-the-badge&logo=Моё резюме&logoColor=white" alt="Моё резюме Badge"/>
       </a>
-    </div> 
-</ol>
-<h3>Мой багаж: </h3>
+</div> 
+<h3>✍️ Мне можно написать:</h3>
+  <a href="https://t.me/mast37">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div> </ol>
+<h3>🛄 Мой багаж: </h3>
 <ul>
   <li>Понимание основных процессов и методологии тестирования, а также владение техникой тест-дизайна</li>
   <li>Опыт работы с SQL: PL/SQL Developer, PostgreSQL, MySQL</li>
-  <li>Опыт работы с инструментами: You Track, Test it, Pairwise, Miro, DevTools, Jira, Qase.io, SOAP UI</li>
-  <li>Опыт в тестировании API: Postman</li>
-  <li>Опыт работы с программыми комплексами: ЦФТ-РБС, ФФЛ, 1С предприятие</li>
+  <li>Опыт работы с инструментами: 
+        <a href="jetbrains.com%E2%80%BAyoutrack/"><img src="https://img.shields.io/badge/You_Track-black" alt="You Track"></a> 
+        <a href="https://testit.software"><img src="https://img.shields.io/badge/Test_it-black" alt="Test it"></a> 
+        <a href="https://pairwise.teremokgames.com/?ysclid=lfb9xx13hk634117435"><img src="https://img.shields.io/badge/Pairwise-black" alt="Pairwise"></a> 
+        <a href="https://miro.com"><img src="https://img.shields.io/badge/Miro-black" alt="Miro"></a> 
+        <a href="https://developer.chrome.com/docs/devtools/"><img src="https://img.shields.io/badge/DevTools-black" alt="DevTools"></a> 
+        <img src="https://img.shields.io/badge/Jira-black" alt="Jira"> 
+        <img src="https://img.shields.io/badge/Confluense-black" alt="Confluense">
+        <a href="https://app.qase.io"><img src="https://img.shields.io/badge/qase.io-black" alt="qase.io"></a> 
+  </li>
+  <li>Опыт в тестировании API: <a href="https://www.postman.com"><img src="https://img.shields.io/badge/Postman-black" alt="Postman"></a></li>
+  <li>Опыт работы с программыми комплексами: 
+        <a href="https://www.cft.ru"><img src="https://img.shields.io/badge/%D0%A6%D0%A4%D0%A2--%D0%A0%D0%91%D0%A1-black" alt="ЦФТ-РБС"></a>
+        <a href="https://rocketscien.se/case_sovkom1"><img src="https://img.shields.io/badge/%D0%A4%D0%A4%D0%9B-black" alt="ФФЛ"></a>
+        <a href="https://v8.1c.ru"><img src="https://img.shields.io/badge/1%D0%A1-black" alt="1С"></a>
+  </li>
 </ul>
-<h3>Личные качества: </h3>
+<h3>📈 Личные качества: </h3>
 <ul>
   <li>Повышаю свой уровень экспертизы в IT</li> 
   <li>Легко нахожу общий язык с коллегами, умею слушать и слышать собеседника</li>
@@ -26,7 +43,7 @@
   <li>Активно участвую в мероприятиях, организованных в компании</li>
 </ul>
 <h2>Проекты:</h2>
-<h3>Тест web-приложения для учителей от Skyeng</h3>
+<h3>Тест web-приложения для учителей от <a href="https://study.skyeng.ru/">Skyeng</a></h3>
 <h3>Что нужно было сделать:</h3>
 <h4>Задача: Тестирование нового функционала “Личные события” в разделе "Расписание"</h4>
 <h4>Основные требования (главная user story):</h4> 
