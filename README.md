@@ -20,7 +20,7 @@
         <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-black" alt="MySQL"></a>
   </li>
   <li>Опыт работы с инструментами: 
-        <a href="jetbrains.com%E2%80%BAyoutrack/"><img src="https://img.shields.io/badge/You_Track-black" alt="You Track"></a> 
+        <a href="https://youtrack.jetbrains.com/issues"><img src="https://img.shields.io/badge/YouTrack-black" alt="YouTrack"></a>
         <a href="https://testit.software"><img src="https://img.shields.io/badge/Test_it-black" alt="Test it"></a> 
         <a href="https://pairwise.teremokgames.com/?ysclid=lfb9xx13hk634117435"><img src="https://img.shields.io/badge/Pairwise-black" alt="Pairwise"></a> 
         <a href="https://miro.com"><img src="https://img.shields.io/badge/Miro-black" alt="Miro"></a> 
