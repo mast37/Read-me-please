@@ -2,6 +2,7 @@
 <h2>Обо мне: </h2>
 <p>Меня зовут Вячеслав, я действующий junior backend-tester</p>
 <h4>[Мое резюме](https://docs.google.com)</h4>
+[hobbit-hole](https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles")
 <h3>Мой багаж: </h3>
 <ul>
   <li>Понимание основных процессов и методологии тестирования, а также владение техникой тест-дизайна</li>
