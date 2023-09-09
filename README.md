@@ -14,7 +14,11 @@
 <h3>🛄 Мой багаж: </h3>
 <ul>
   <li>Понимание основных процессов и методологии тестирования, а также владение техникой тест-дизайна</li>
-  <li>Опыт работы с SQL: PL/SQL Developer, PostgreSQL, MySQL</li>
+  <li>Опыт работы с SQL: 
+        <a href="ww.allroundautomations.com/products/pl-sql-developer/"><img src="https://img.shields.io/badge/PL%2FSQL_Developer-black" alt="PL/SQL Developer"></a>
+        <a href="PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-black" alt="PostgreSQL"></a>
+        <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-black" alt="MySQL"></a>
+  </li>
   <li>Опыт работы с инструментами: 
         <a href="jetbrains.com%E2%80%BAyoutrack/"><img src="https://img.shields.io/badge/You_Track-black" alt="You Track"></a> 
         <a href="https://testit.software"><img src="https://img.shields.io/badge/Test_it-black" alt="Test it"></a> 
@@ -27,8 +31,8 @@
   </li>
   <li>Опыт в тестировании API: <a href="https://www.postman.com"><img src="https://img.shields.io/badge/Postman-black" alt="Postman"></a></li>
   <li>Опыт работы с программыми комплексами: 
-        <a href="https://www.cft.ru"><img src="https://img.shields.io/badge/%D0%A6%D0%A4%D0%A2--%D0%A0%D0%91%D0%A1-black" alt="ЦФТ-РБС"></a>
-        <a href="https://rocketscien.se/case_sovkom1"><img src="https://img.shields.io/badge/%D0%A4%D0%A4%D0%9B-black" alt="ФФЛ"></a>
+        <img src="https://img.shields.io/badge/%D0%A6%D0%A4%D0%A2--%D0%A0%D0%91%D0%A1-black" alt="ЦФТ-РБС">
+        <img src="https://img.shields.io/badge/%D0%A4%D0%A4%D0%9B-black" alt="ФФЛ">
         <a href="https://v8.1c.ru"><img src="https://img.shields.io/badge/1%D0%A1-black" alt="1С"></a>
   </li>
 </ul>
