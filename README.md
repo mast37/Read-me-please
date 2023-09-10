@@ -13,7 +13,7 @@
 </div> </ol>
 <h3>🛄 Мой багаж: </h3>
 <ul>
-  <li>Понимание основных процессов и методологии тестирования, а также владение техникой тест-дизайна</li>
+  <li>Понимание основных процессов и методологии тестирования, а также владение техниками тест-дизайна</li>
   <li>Опыт работы с SQL: 
         <img src="https://img.shields.io/badge/PL%2FSQL_Developer-black" alt="PL/SQL Developer">
         <img src="https://img.shields.io/badge/PostgreSQL-black" alt="PostgreSQL">
@@ -26,7 +26,7 @@
         <img src="https://img.shields.io/badge/Miro-black" alt="Miro">
         <img src="https://img.shields.io/badge/DevTools-black" alt="DevTools"> 
         <img src="https://img.shields.io/badge/Jira-black" alt="Jira"> 
-        <img src="https://img.shields.io/badge/Confluense-black" alt="Confluense">
+        <img src="https://img.shields.io/badge/Confluenсe-black" alt="Confluenсe">
         <img src="https://img.shields.io/badge/qase.io-black" alt="qase.io"> 
   </li>
   <li>Опыт в тестировании API: <img src="https://img.shields.io/badge/Postman-black" alt="Postman">
